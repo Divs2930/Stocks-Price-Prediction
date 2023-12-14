@@ -18,7 +18,7 @@ st.markdown('''
 Shown are the stock price data for query companies!
 
 **Credits**
-- App built by Suraj, Divjot, Kirat and Simarjeet
+- App built by Divjot Singh
 - Built in `Python` using `streamlit`,`yfinance`, `cufflinks`, `pandas` and `datetime`
 ''')
 st.write('---')
