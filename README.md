@@ -9,8 +9,6 @@ Live demo: [Stock-GPT](https://stock-price-prediction-with-chatbot-mdrtj7pujkfyu
 For the LLaMA2 license agreement, please check the Meta Platforms, Inc official license documentation on their website. 
 [More info.](https://ai.meta.com/llama/)
 
-<img width="1710" alt="llama2 demo" src="https://github.com/Suraj9968/Stock-Price-Prediction-with-Chatbot/blob/master/Screenshot%202023-12-07%20001950.png">
-
 ## Features
 
 - Chat history is maintained for each session (if you refresh, chat history clears)
