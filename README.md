@@ -2,18 +2,17 @@
 
 ## 🤔 What is this?
 
-This is an experimental Streamlit chatbot app built for LLaMA2 (or any other LLM). The app includes session chat history and provides an option to select multiple LLaMA2 API endpoints on Replicate. It uses LSTM model for Stock price predection
+This is an experimental Streamlit chatbot app using OpenAI api. It uses LSTM model for Stock price predection
 
 Live demo: [Stock-GPT](https://stocks-price-prediction-jfaacacqmlvghlph5nwrum.streamlit.app/#stock-price-predection-app)
 
-For the LLaMA2 license agreement, please check the Meta Platforms, Inc official license documentation on their website. 
-[More info.](https://ai.meta.com/llama/)
+For the OpenAI license agreement, please check the Meta Platforms, Inc official license documentation on their website. 
+[More info.](https://openai.com/blog/openai-api)
 
+<img width="1710" alt="demo" src="https://github.com/Suraj9968/Stock-Price-Prediction-with-Chatbot/blob/master/Screenshot%202023-12-07%20001950.png">
 ## Features
 
 - Chat history is maintained for each session (if you refresh, chat history clears)
-- Option to select between different LLaMA2 chat API endpoints (7B, 13B). The default is 7B.
-- Configure model hyperparameters from the sidebar (Temperature, Top P, Max Sequence Length).
 - Includes "User:" and "Assistant:" prompts for the chat conversation.
 - Each model (7B, 13B & 70B) runs on Replicate.
 - Docker image included
