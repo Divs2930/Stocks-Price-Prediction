@@ -32,20 +32,15 @@ For the OpenAI license agreement, please check the Meta Platforms, Inc official 
 ## Usage
 
 - Start the chatbot by selecting an API endpoint from the sidebar.
-- Configure model hyperparameters from the sidebar.
 - Type your question in the input field at the bottom of the app and press enter.
 
 ## Contributing
 
 This project is under development. Contributions are welcome!
 
-## License
-
-- For the LLaMA models license, please refer to the License Agreement from Meta Platforms, Inc.
-
 ## Acknowledgements
 
-- Special thanks to the team at Meta AI, Replicate, a16z-infra and the entire open-source community.
+- Special thanks to the team at OpenAI, Replicate, a16z-infra and the entire open-source community.
 
 ## Disclaimer
 
