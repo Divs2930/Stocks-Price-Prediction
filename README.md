@@ -10,6 +10,7 @@ For the OpenAI license agreement, please check the Meta Platforms, Inc official 
 [More info.](https://openai.com/blog/openai-api)
 
 <img width="1710" alt="demo" src="[https://github.com/Divs2930/Stocks-Price-Prediction/blob/main/Screenshot%202023-12-16%20011643.png]">
+
 ## Features
 
 - Chat history is maintained for each session (if you refresh, chat history clears)
