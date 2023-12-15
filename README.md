@@ -9,7 +9,7 @@ Live demo: [Stock-GPT](https://stocks-price-prediction-jfaacacqmlvghlph5nwrum.st
 For the OpenAI license agreement, please check the Meta Platforms, Inc official license documentation on their website. 
 [More info.](https://openai.com/blog/openai-api)
 
-<img width="2000" alt="demo" src="[https://github.com/Divs2930/Stocks-Price-Prediction/blob/main/Screenshot%202023-12-16%20011643.png]">
+<img alt="demo" src="[https://github.com/Divs2930/Stocks-Price-Prediction/blob/main/Screenshot%202023-12-16%20011643.png]">
 
 ## Features
 
